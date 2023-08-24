@@ -91,8 +91,40 @@ git diff
 
 
 
+<<<<<<< HEAD
 adad;am,d d;amdklakldmadakadm;ldlmlgklmgf fsfmskJNf lADL adlad
 adadada
+=======
+Чтобы добавить изображения, можно воспользоваться следующими конструкциями:
+
+Картинка без `alt` текста
+
+![](https://www.ixbt.com/img/n1/news/2022/8/4/1628255_large.png)
+
+Картинка с альтом и тайтлом:
+
+![Alt text](//placehold.it/150x100 "Можно задать title")
+
+Запомнить просто: синтаксис как у ссылок, только перед открывающей квадратной скобкой ставится восклицательный знак.
+
+Картинки «сноски»:
+
+![Картинка 1][image1]
+![Картинка][image2]
+![Картинка][image3]
+
+[image1]: https://www.ixbt.com/img/n1/news/2022/8/4/1628255_large.png
+[image2]: https://happypik.ru/wp-content/uploads/2019/09/chernaya-koshka2.jpg.webp
+[image3]: https://happypik.ru/wp-content/uploads/2019/09/top24.jpg.webp
+
+Картинки-ссылки:
+
+[![Alt text](https://www.ixbt.com/img/n1/news/2022/8/4/1628255_large.png)](https://gb.ru/lessons/358249/homework)
+
+
+
+
+>>>>>>> images
 
 
 ## Добавление исходного кода
