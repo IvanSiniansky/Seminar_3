@@ -91,10 +91,6 @@ git diff
 
 
 
-<<<<<<< HEAD
-adad;am,d d;amdklakldmadakadm;ldlmlgklmgf fsfmskJNf lADL adlad
-adadada
-=======
 Чтобы добавить изображения, можно воспользоваться следующими конструкциями:
 
 Картинка без `alt` текста
@@ -124,7 +120,6 @@ adadada
 
 
 
->>>>>>> images
 
 
 ## Добавление исходного кода
