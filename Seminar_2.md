@@ -91,7 +91,8 @@ git diff
 
 
 
-
+adad;am,d d;amdklakldmadakadm;ldlmlgklmgf fsfmskJNf lADL adlad
+adadada
 
 
 ## Добавление исходного кода
